@@ -1,9 +1,3 @@
----
-title: Semantic_Book_Recommendation_System
-app_file: app.py
-sdk: gradio
-sdk_version: 5.16.1
----
 # Semantic Book Recommender
 
 ![Dashboard Screenshot](Dashboard.png)  <!-- Replace with the actual link to your dashboard image -->
