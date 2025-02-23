@@ -35,12 +35,12 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/semantic-book-recommender.git
+   https://github.com/DevAzan786/book-recommender.git
    ```
   
 2. Change into the project directory:
    ```bash
-   cd semantic-book-recommender
+   cd book-recommender
    ```
 
 3. Install the required libraries:
@@ -72,7 +72,7 @@ To run the application locally:
 
 The Semantic Book Recommender is also deployed and accessible online. You can try the live application at:
 
-[Live Demo](link-to-your-deployed-app)  <!-- Replace with the actual link to your deployed app -->
+[Live Demo](https://huggingface.co/spaces/MalikAzanAli/Semantic-Book-Recommender)  <!-- Replace with the actual link to your deployed app -->
 
 ## Usage
 
